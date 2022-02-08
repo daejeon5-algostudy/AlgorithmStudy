@@ -34,7 +34,7 @@
 </br>
 
 ## 스터디 외
-* [2주차(22.02.07~22.02.13)](https://github.com/J00HUI/Daejeon5-AlgorithmStudy/blob/master/%EC%8A%A4%ED%84%B0%EB%94%94%EC%99%B8/2%EC%A3%BC%EC%B0%A8/README.md)
+* [2주차(22.02.07~22.02.13)](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%99%B8/2%EC%A3%BC%EC%B0%A8)
 * 3주차(22.02.14~22.02.20)
 * 4주차(22.02.21~22.02.27)
 * 22/02/28 : SW 역량 테스트
