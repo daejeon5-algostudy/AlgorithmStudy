@@ -25,7 +25,7 @@
 </br>
 
 ## 스터디
-* [22.02.09](https://github.com/J00HUI/Daejeon5-AlgorithmStudy/blob/master/%EC%8A%A4%ED%84%B0%EB%94%94/0209/README.md)
+* [22.02.09](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0209)
 * 22.02.11
 * 22.02.16
 * 22.02.18
