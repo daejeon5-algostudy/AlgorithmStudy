@@ -1,17 +1,14 @@
 ```Java
-package a0203.iorecursive;
-
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-public class Main_bj_17478_재귀함수가뭔가요_대전_5반_정태환 {
+public class Main {
 
 	static int N;
 	static StringBuilder sb = new StringBuilder();
 	
 	public static void main(String[] args) throws Exception {
-		System.setIn(new FileInputStream("res/input_bj_17478"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		N = Integer.parseInt(br.readLine());
 		sb.append("어느 한 컴퓨터공학과 학생이 유명한 교수님을 찾아가 물었다.\n");
