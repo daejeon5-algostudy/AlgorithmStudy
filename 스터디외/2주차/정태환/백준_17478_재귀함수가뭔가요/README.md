@@ -1,3 +1,4 @@
+```Java
 package a0203.iorecursive;
 
 import java.io.BufferedReader;
@@ -41,3 +42,4 @@ public class Main_bj_17478_재귀함수가뭔가요_대전_5반_정태환 {
 	}
 	
 }
+```
