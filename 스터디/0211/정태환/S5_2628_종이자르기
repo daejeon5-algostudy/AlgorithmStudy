@@ -45,45 +45,6 @@ public class Main {
 			}
 		}
 		System.out.println(max);
-
-		
-		// 첫번째 시도 : 잘랏을때마다 큰쪽을 저장하는 방식으로 풀이했으나 실패
-		// 반례 : 가장 큰부분을 잘랏을때 고려되지 않은 다른쪽이 가장 큰부분이 될 수 있으므로 틀린 풀이 
-//		// 문제에서 주어지는 좌표평면이 2사분면임
-//		int startx = 0; // 세로행 시작번호
-//		int starty = 0; // 가로행 시작번호
-//		int endx = N; 	// 세로행 끝번호
-//		int endy = M; 	// 가로행 끝번호
-//		for (int c = 0; c < cut; c++) {
-//			token = new StringTokenizer(br.readLine());
-//			int mode = Integer.parseInt(token.nextToken());
-//			int idx = Integer.parseInt(token.nextToken());
-//			
-//			// 가로로 자르기
-//			if(mode == 0) { 
-//				if(idx > starty && idx < endy) { // 가장 큰 사각형을 자르게 되면
-//					// 두개로 나뉜것중 큰쪽으로 인덱스를 바꿈
-//					int s1 = endy - idx;
-//					int s2 = idx - starty;
-//					if(s1 > s2) starty = idx;
-//					else endy = idx;
-//				}
-//			// 세로로자르기
-//			} else { 
-//				
-//				if(idx > startx && idx < endx) { // 가장 큰 사각형을 자르게 되면
-//					// 두개로 나뉜것중 큰쪽으로 인덱스를 바꿈
-//					int s1 = endx - idx;
-//					int s2 = idx - startx;
-//					if(s1 > s2) startx = idx;
-//					else endx = idx;
-//				}
-//			}
-//		}
-////		System.out.println(endx + " " + startx + " " + endy + " " + starty);
-//		int a = endx - startx; // 가로길이
-//		int b = endy - starty; // 세로길이
-//		System.out.println(a*b);
 	}
 }
 
