@@ -12,6 +12,6 @@
 * [정교준](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211/%EC%A0%95%EA%B5%90%EC%A4%80/README.md)
 * [정태환](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211/%EC%A0%95%ED%83%9C%ED%99%98/README.md)
 * [정한빔](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211/%EC%A0%95%ED%95%9C%EB%B9%94/README.md)
-* 최원재
+* [최원재](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211/%EC%B5%9C%EC%9B%90%EC%9E%AC/README.md)
 
 
