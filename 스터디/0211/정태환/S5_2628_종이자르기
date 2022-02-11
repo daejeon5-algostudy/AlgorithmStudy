@@ -1,0 +1,90 @@
+```java
+import java.io.*;
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer token = new StringTokenizer(br.readLine());
+		int N = Integer.parseInt(token.nextToken());
+		int M = Integer.parseInt(token.nextToken());
+		int cut = Integer.parseInt(br.readLine());
+		
+		ArrayList<Integer> xlist = new ArrayList<>(); // 세로 자른부분 저장
+		ArrayList<Integer> ylist = new ArrayList<>(); // 가로 자르부분 저장
+		
+		// 넓이 연산을 위해 시작점을 삽입 
+		xlist.add(0);
+		ylist.add(0);
+		for (int c = 0; c < cut; c++) {
+			token = new StringTokenizer(br.readLine());
+			int mode = Integer.parseInt(token.nextToken()); // 가로, 세로모드 입력
+			int idx = Integer.parseInt(token.nextToken());  // 자를 번호 입력
+			
+			// 가로 인덱스 자르기
+			if(mode == 0) ylist.add(idx);
+			// 세로 인덱스 자르기
+			else xlist.add(idx);
+		}
+		// 자르는 인덱스 넣고 오름차순정렬
+		Collections.sort(xlist);
+		Collections.sort(ylist);
+		
+		// 넓이 연산을 위한 끝점 인덱스 넣기
+		xlist.add(N);
+		ylist.add(M);
+		
+		int max = 0;
+		// 저장후 오름차순 정렬된 인덱스에서 두개씩 꺼내서 간격만큼 곱함
+		// 주어진 기본예제의 첫번째경우 (2 - 0) * (4 - 0)
+		for (int i = 0; i < xlist.size() - 1; i++) {
+			for (int j = 0; j < ylist.size() - 1; j++) {
+				
+				int result = (xlist.get(i + 1) - xlist.get(i)) * (ylist.get(j + 1) - ylist.get(j));
+				max = result > max ? result : max;
+			}
+		}
+		System.out.println(max);
+
+		
+		// 첫번째 시도 : 잘랏을때마다 큰쪽을 저장하는 방식으로 풀이했으나 실패
+		// 반례 : 가장 큰부분을 잘랏을때 고려되지 않은 다른쪽이 가장 큰부분이 될 수 있으므로 틀린 풀이 
+//		// 문제에서 주어지는 좌표평면이 2사분면임
+//		int startx = 0; // 세로행 시작번호
+//		int starty = 0; // 가로행 시작번호
+//		int endx = N; 	// 세로행 끝번호
+//		int endy = M; 	// 가로행 끝번호
+//		for (int c = 0; c < cut; c++) {
+//			token = new StringTokenizer(br.readLine());
+//			int mode = Integer.parseInt(token.nextToken());
+//			int idx = Integer.parseInt(token.nextToken());
+//			
+//			// 가로로 자르기
+//			if(mode == 0) { 
+//				if(idx > starty && idx < endy) { // 가장 큰 사각형을 자르게 되면
+//					// 두개로 나뉜것중 큰쪽으로 인덱스를 바꿈
+//					int s1 = endy - idx;
+//					int s2 = idx - starty;
+//					if(s1 > s2) starty = idx;
+//					else endy = idx;
+//				}
+//			// 세로로자르기
+//			} else { 
+//				
+//				if(idx > startx && idx < endx) { // 가장 큰 사각형을 자르게 되면
+//					// 두개로 나뉜것중 큰쪽으로 인덱스를 바꿈
+//					int s1 = endx - idx;
+//					int s2 = idx - startx;
+//					if(s1 > s2) startx = idx;
+//					else endx = idx;
+//				}
+//			}
+//		}
+////		System.out.println(endx + " " + startx + " " + endy + " " + starty);
+//		int a = endx - startx; // 가로길이
+//		int b = endy - starty; // 세로길이
+//		System.out.println(a*b);
+	}
+}
+
+```
