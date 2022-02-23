@@ -6,12 +6,13 @@
 
 </br>
 
-## 🧑🏽‍💻 풀이 및 코드 & Situation board
+## 🧑🏽‍💻 Situation board
 - 주어진 문제를 해결하고 코드 업로드 완료시 🟩로 표시
 
 | 문제 출처   | 번호       | 문제      | 이주희  | 정교준  | 정태환  | 정한빔 | 최원재  |
 | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: | :-------: |  :-------: |
-| 백준        | 2309      |[일곱난쟁이](https://www.acmicpc.net/problem/2309)  |       |        |       |       |      |
-| 백준        | 9012      |[괄호](https://www.acmicpc.net/problem/9012)        |      |        |        |       |      |
-| 백준        | 2304      |[창고 다각형](https://www.acmicpc.net/problem/2304) |       |        |        |      |      |
+| 백준        | 16637      |[괄호 추가하기](https://www.acmicpc.net/problem/16637)  |       |        |       |       |      |
+| 백준        | 1339      |[단어 수학](https://www.acmicpc.net/problem/1339)        |      |        |        |       |      |
+| 백준        | 1759      |[암호 만들기](https://www.acmicpc.net/problem/1759) |       |        |        |      |      |
+| 백준        | 21608      |[상어 초등학교](https://www.acmicpc.net/problem/21608) |       |        |        |      |      |
 |             |           |           |  코드링크 | 코드링크  | 코드링크  | 코드링크  | 코드링크  |
