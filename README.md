@@ -8,19 +8,19 @@
 #### 2.	방식
 -	~수업 진도에 맞춰 매 스터디마다 2-3문제를 실전과 같이 시간제한을 두고 문제를 푼 뒤 접근 방법 및 풀이 공유~
 - 스터디 전까지 3~5문제씩 풀어와 스터디 당일 날 코드 리뷰 (차차 난이도 상향, 시간 제한두고 풀기)
+   - 수요일 스터디 : 삼성 기출 문제 2~3문제
+   - 금요일 스터디 : 삼성 기출 문제 1~2문제 
 - 깃헙에 스터디 외 푼 문제 링크와 코드 공유
 
 #### 3. 문제 선정(백준)
 -	돌아가면서 문제를 선정하여 [백준 그룹 문제집](https://www.acmicpc.net/group/workbook/list/13701) 등록
-- 수요일 스터디 문제 : 골드수준으로 5문제, 금요일밤이나 토요일밤까지업로드
-- 금요일 스터디 문제 : 실버수준으로 3문제(수업 복습할 수 있는 문제 good), 수요일밤까지업로드
 ```
 * 02.09 : 이주희
 * 02.11 : 정교준
 * 02.16 : 정태환
 * 02.18 : 정한빔
 * 02.23 : 최원재
-* 02.25
+* 02.25 : 이주희
 ```
 
 ### 4. 스터디 기록
@@ -28,12 +28,12 @@
 </br>
 
 ## 스터디
-* [22.02.09](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0209)
-* [22.02.11](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211)
-* [22.02.16](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0216)
-* [22.02.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0218)
-* 22.02.23
-* 22.02.25
+* [22.02.09](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0209) ✅
+* [22.02.11](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211) ✅
+* [22.02.16](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0216) ✅
+* [22.02.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0218) ✅
+* [22.02.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0223) ✅
+* [22.02.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0225)
 </br>
 
 ## 스터디 외
