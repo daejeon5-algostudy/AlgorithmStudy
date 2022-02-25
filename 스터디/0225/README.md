@@ -12,5 +12,5 @@
 | 문제 출처   | 번호       | 문제      | 이주희  | 정교준  | 정태환  | 정한빔 | 최원재  |
 | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: | :-------: |  :-------: |
 | 백준        | 19237      |[어른상어](https://www.acmicpc.net/problem/19237)  |       |     🟩    |        |       |      |
-| 백준        | 1339      |[마법사상어와 토네이도](https://www.acmicpc.net/problem/20057) |      |   🟩     |          |       |      |
+| 백준        | 20057      |[마법사상어와 토네이도](https://www.acmicpc.net/problem/20057) |      |   🟩     |          |       |      |
 |             |           |           |  코드링크 | [코드링크](https://github.com/jeongkyojun/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0225/%EC%A0%95%EA%B5%90%EC%A4%80/README.md)  | 코드링크  | 코드링크  | 코드링크  |
