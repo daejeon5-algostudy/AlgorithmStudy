@@ -15,4 +15,4 @@
 | 백준        | 2002     |[추월](https://www.acmicpc.net/problem/2002)  |       |    🟩     |   🟩   |      |    🟩   |
 | 백준        | 5212      |[지구 온난화](https://www.acmicpc.net/problem/5212)  |       |     🟩    |   🟩   |      |   🟩    |
 | 백준        | 23290      |[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)   |       |    🟩    |   🟩   |      |       |
-|             |           |           |  [코드링크]() | [코드링크]() | [코드링크](정태환/README.md) | [코드링크]() | [코드링크]()  |
+|             |           |           |  [코드링크]() | [코드링크](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0311/%EC%A0%95%EA%B5%90%EC%A4%80/README.md) | [코드링크](정태환/README.md) | [코드링크]() | [코드링크]()  |
