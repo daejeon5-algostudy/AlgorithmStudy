@@ -12,4 +12,4 @@
 |백준|2573|[빙산](https://www.acmicpc.net/problem/2573)  |       |      |    |      |
 |백준|10282|[해킹](https://www.acmicpc.net/problem/10282)  |       |    |    |     |
 |백준|17396|[백도어](https://www.acmicpc.net/problem/17396)|  |  |  |   |
-|백준|17396|[백도어](https://www.acmicpc.net/problem/17396)|  [코드링크](이주희/README.md) | [코드링크](정교준/README.md) | [코드링크](정태환/README.md) | [코드링크](최원재/README.md)  |
+||||  [코드링크](이주희/README.md) | [코드링크](정교준/README.md) | [코드링크](정태환/README.md) | [코드링크](최원재/README.md)  |
