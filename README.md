@@ -51,8 +51,8 @@
 * 22.03.09 공휴일
 * [22.03.11](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0311) ✅
 * [22.03.16](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0316) ✅
-* [22.03.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0323/README.md) ✅
-* 22.03.23 
+* [22.03.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0318) ✅
+* [22.03.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0323) ✅
 * 22.03.25 
 * 22.03.30 
 </br>
