@@ -54,7 +54,7 @@
 * [22.03.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0318) ✅
 * [22.03.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0323) ✅
 * [22.03.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0325) ✅
-* [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330)
+* [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330) ✅
 </br>
 
 ## 스터디 외
