@@ -1,6 +1,6 @@
-# 22.03.25. 금
+# 22.03.30. 수
 
-[백준 그룹 문제집/0325](https://www.acmicpc.net/group/workbook/view/13701/43713)
+[백준 그룹 문제집/0330](https://www.acmicpc.net/group/workbook/view/13701/43713)
 
 </br>
 
