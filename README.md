@@ -32,6 +32,17 @@
 * 03.25 : 정태환
 * 03.30 : 최원재
 ```
+```
+* 04.01 : 이주희
+* 04.06 : 정교준
+* 04.08 : 정태환
+* 04.13 : 최원재
+* 04.15 : 이주희
+* 04.20 : 정교준
+* 04.22 : 정태환
+* 04.27 : 최원재
+* 04.29 : 이주희
+```
 
 ### 4. 스터디 기록
 -	깃허브에 주차별로 자신의 폴더를 만들어서 소스코드 공유 및 Readme 에 활동 기록
@@ -56,6 +67,17 @@
 * [22.03.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0325) ✅
 * [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330) ✅
 </br>
+
+* 22.04.01
+* 22.04.06 
+* 22.04.08 
+* 22.04.13 
+* 22.04.15 
+* 22.04.20
+* 22.04.22 
+* 22.04.27 
+* 22.04.29 
+<br>
 
 ## 스터디 외
 * [2주차(22.02.07~22.02.13)](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%99%B8/2%EC%A3%BC%EC%B0%A8)
