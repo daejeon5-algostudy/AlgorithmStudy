@@ -68,7 +68,7 @@
 * [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330) ✅
 </br>
 
-* 22.04.01
+* [22.04.01](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0401)
 * 22.04.06 
 * 22.04.08 
 * 22.04.13 
