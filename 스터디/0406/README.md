@@ -11,5 +11,5 @@
 | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: |  :-------: |
 |백준|17471|[게리멘더링](https://www.acmicpc.net/problem/17471)      | 🟩   | 🟩  |    |    |
 |백준|17135|[캐슬디펜스](https://www.acmicpc.net/problem/17135)      |    |  🟩  |    |   |
-|백준|2206|[벽부수고이동하기](https://www.acmicpc.net/problem/2206)   |    |  🟩  |    |   |
+|백준|2206|[벽부수고이동하기](https://www.acmicpc.net/problem/2206)   | 🟩   |  🟩  |    |   |
 ||||  [코드링크](이주희/README.md) | [코드링크](정교준/README.md) | [코드링크](정태환/README.md) | [코드링크](최원재/README.md)  |
