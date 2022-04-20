@@ -73,8 +73,8 @@
 * [22.04.08](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0408) ✅
 * [22.04.13](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0413) ✅
 * [22.04.15](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0415) ✅
-* [22.04.20](스터디/0420/README.md)
-* 22.04.22 
+* [22.04.20](스터디/0420/README.md) ✅
+* [22.04.22](스터디/0422/README.md) 
 * 22.04.27 
 * 22.04.29 
 <br>
