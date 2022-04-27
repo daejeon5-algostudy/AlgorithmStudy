@@ -10,7 +10,7 @@
 
 | 문제 출처   | 번호       | 문제      | 이주희  | 정교준  | 정태환  | 최원재  |
 | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: |  :-------: |
-|백준|17779|[게리맨더링 2](https://www.acmicpc.net/problem/17779)      |    |    |    |   |
-|백준|17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)      |    |    |    |   |
-|백준|17281	|[⚾](https://www.acmicpc.net/problem/17281	)      |    |    |    |   |
+|백준|17779|[게리맨더링 2](https://www.acmicpc.net/problem/17779)      |    |    | 🟩   |   |
+|백준|17406|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)      |    |    |  🟩  |   |
+|백준|17281	|[⚾](https://www.acmicpc.net/problem/17281	)      |    |    |   🟩 |   |
 ||||  [코드링크](이주희/README.md) | [코드링크](정교준/README.md) | [코드링크](정태환/README.md) | [코드링크](최원재/README.md)  |
