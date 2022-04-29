@@ -1,6 +1,6 @@
 # 22.04.29. 금
 
-[백준 그룹 문제집/0427](https://www.acmicpc.net/group/workbook/view/13701/44621)
+[백준 그룹 문제집/0429](https://www.acmicpc.net/group/workbook/view/13701/44752)
 
 </br>
 
