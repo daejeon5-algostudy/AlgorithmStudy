@@ -1,6 +1,6 @@
-# 22.05.04. 수
+# 22.05.06. 금
 
-[백준 그룹 문제집/0504](https://www.acmicpc.net/group/workbook/view/13701/44817)
+[백준 그룹 문제집/0506](https://www.acmicpc.net/group/workbook/view/13701/44971)
 
 </br>
 
@@ -9,6 +9,6 @@
 
 |문제 출처|번호|문제|이주희|정교준|정태환|최원재
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|백준|2631|[줄세우기](https://www.acmicpc.net/problem/2631)|🟩|🟩|🟩|🟩|
-|백준|1516|[게임 개발](https://www.acmicpc.net/problem/1516)|🟩|🟩|🟩 ||
+|백준|16235|[나무 재테크](https://www.acmicpc.net/problem/16235)|||||
+|백준|17070|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|||||
 ||||[코드링크](이주희/README.md)|[코드링크](정교준/README.md)|[코드링크](정태환/README.md)|[코드링크](최원재/README.md)|
