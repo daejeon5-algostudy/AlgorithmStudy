@@ -66,7 +66,8 @@
 ### 4. 스터디 기록
 
 - 깃허브에 주차별로 자신의 폴더를 만들어서 소스코드 공유 및 Readme 에 활동 기록
-  </br>
+
+</br>
 
 ## 스터디
 
@@ -76,6 +77,7 @@
 - [22.02.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0218) ✅
 - [22.02.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0223) ✅
 - [22.02.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0225) ✅
+
   </br>
 
 - [22.03.02](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0302) ✅
@@ -87,6 +89,7 @@
 - [22.03.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0323) ✅
 - [22.03.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0325) ✅
 - [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330) ✅
+
   </br>
 
 - [22.04.01](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0401) ✅
@@ -98,6 +101,7 @@
 - [22.04.22](스터디/0422/README.md) ✅
 - [22.04.27](스터디/0427/README.md) ✅
 - [22.04.29](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0429) ✅
+
   </br>
 
 - [22.05.04](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0504) ✅
@@ -108,6 +112,7 @@
 - 22.05.20
 - 22.05.25
 - 22.05.27
+
   <br>
 
 ## 스터디 외
