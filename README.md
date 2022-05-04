@@ -100,7 +100,7 @@
 - [22.04.29](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0429) ✅
   </br>
 
-- 22.05.04(https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0504) ✅
+- [22.05.04](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0504) ✅
 - 22.05.06
 - 22.05.11
 - 22.05.13
