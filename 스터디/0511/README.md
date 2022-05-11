@@ -9,6 +9,6 @@
 
 |문제 출처|번호|문제|이주희|정교준|정태환|최원재
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|백준|2253|[점프](https://www.acmicpc.net/problem/2253)|  |🟩|||
-|백준|2011|[암호코드](https://www.acmicpc.net/problem/2011)|  |🟩|||
+|백준|2253|[점프](https://www.acmicpc.net/problem/2253)|  |🟩|🟩||
+|백준|2011|[암호코드](https://www.acmicpc.net/problem/2011)|  |🟩|🟩||
 ||||[코드링크](이주희/README.md)|[코드링크](정교준/README.md)|[코드링크](정태환/README.md)|[코드링크](최원재/README.md)|
