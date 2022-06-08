@@ -1,4 +1,4 @@
-# 📚 Daejeon5-AlgorithmStudy
+# 📚 SSAFY7-AlgorithmStudy
 
 </br>
 
@@ -14,7 +14,6 @@
 - 스터디 전까지 3~5문제씩 풀어와 스터디 당일 날 코드 리뷰 (차차 난이도 상향, 시간 제한두고 풀기)
   - 수요일 스터디 : 삼성 기출 문제 2~3문제
   - 금요일 스터디 : 삼성 기출 문제 1~2문제
-- 깃헙에 스터디 외 푼 문제 링크와 코드 공유
 
 #### 3. 문제 선정(백준)
 
@@ -58,9 +57,19 @@
 * 05.11 : 최원재
 * 05.13 : 이주희
 * 05.18 : 정교준
-* 05.20 : 정태환
-* 05.25 : 최원재
-* 05.27 : 이주희
+```
+</br>
+
+⭐여름 방학⭐
+```
+* 06.03 : 정교준
+* 06.08 : 최원재
+* 06.10 : 이주희
+* 06.15 : 정태환
+* 06.17 : 정교준
+* 06.22 : 최원재
+* 06.24 : 이주희
+* 06.29 : 정태환
 ```
 
 ### 4. 스터디 기록
@@ -70,15 +79,13 @@
 </br>
 
 ## 스터디
-
-- [22.02.09](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0209/README.md) ✅
-- [22.02.11](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211) ✅
-- [22.02.16](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0216) ✅
-- [22.02.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0218) ✅
-- [22.02.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0223) ✅
-- [22.02.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0225) ✅
-
-  </br>
+* [22.02.09](https://github.com/daejeon5-algostudy/AlgorithmStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94/0209/README.md) ✅
+* [22.02.11](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0211) ✅
+* [22.02.16](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0216) ✅
+* [22.02.18](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0218) ✅
+* [22.02.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0223) ✅
+* [22.02.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0225) ✅
+</br>
 
 - [22.03.02](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0302) ✅
 - [22.03.04](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0304) ✅
@@ -89,8 +96,7 @@
 - [22.03.23](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0323) ✅
 - [22.03.25](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0325) ✅
 - [22.03.30](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0330) ✅
-
-  </br>
+</br>
 
 - [22.04.01](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0401) ✅
 - [22.04.06](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0406) ✅
@@ -101,23 +107,27 @@
 - [22.04.22](스터디/0422/README.md) ✅
 - [22.04.27](스터디/0427/README.md) ✅
 - [22.04.29](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0429) ✅
-
-  </br>
+</br>
 
 - [22.05.04](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94/0504) ✅
 - [22.05.06](스터디/0506/README.md) ✅
 - [22.05.11](스터디/0511/README.md) ✅
 - [22.05.13](스터디/0513/README.md) ✅
-- 22.05.18
-- 22.05.20
-- 22.05.25
-- 22.05.27
+</br>
+ 
+- 22.05.18~22.05.27 프로젝트 기간
+</br>
+ 
+⭐여름 방학⭐
+* 22.06.01
+* 22.06.03
+* 22.06.08
+* 22.06.10 
+* 22.06.15 
+* 22.06.17 
+* 22.06.22 
+* 22.06.24 
+* 22.06.29 
 
-  <br>
+</br>
 
-## 스터디 외
-
-- [2주차(22.02.07~22.02.13)](https://github.com/daejeon5-algostudy/AlgorithmStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%99%B8/2%EC%A3%BC%EC%B0%A8)
-- 3주차(22.02.14~22.02.20)
-- 4주차(22.02.21~22.02.27)
-- 22/02/28 : SW 역량 테스트
