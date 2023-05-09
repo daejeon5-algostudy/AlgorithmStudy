@@ -9,6 +9,6 @@
 
 |문제 출처|번호|문제|이주희|정교준|정태환|최원재
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:
-|백준|2156|[포도주 시식](https://www.acmicpc.net/problem/2156)||||🟩|
+|백준|2156|[포도주 시식](https://www.acmicpc.net/problem/2156)|🟩|||🟩|
 |백준|5557|[1학년](https://www.acmicpc.net/problem/5557)||🟩||🟩|
 ||||[코드링크](이주희/README.md)|[코드링크](정교준/README.md)|[코드링크](정태환/README.md)|[코드링크](최원재/README.md)|
