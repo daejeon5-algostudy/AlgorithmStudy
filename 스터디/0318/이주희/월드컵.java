@@ -34,7 +34,6 @@ public class Main_bj_6987_월드컵 {
 			st = new StringTokenizer(br.readLine(), " ");
 			int res = 1;
 			
-			int matchTotal=0;
 			for(int a=0; a<TEAM_NUMBER; a++) {
 				int total=0;
 				
@@ -43,14 +42,9 @@ public class Main_bj_6987_월드컵 {
 				int lose = score[a][2] = Integer.parseInt(st.nextToken());
 				
 				total += win + draw + lose;
-				matchTotal += total;
-				
 				if(total != 5) {
 					res = 0;
 				}
-			}
-			if(matchTotal != 30) {
-				res = 0;
 			}
 			
 			if(res==1 && !play(0)) {
